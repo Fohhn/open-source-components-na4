@@ -1,4 +1,4 @@
-*Fohhn NA-4 ethernet adapter (0x0890 only) uses the following open source components.*
+**Fohhn NA-4 ethernet adapter (0x0890 only) uses the following open source components.**
 
 lwIP (STABLE-2.0.3)
 http://savannah.nongnu.org/projects/lwip/
